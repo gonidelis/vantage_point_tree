@@ -1,6 +1,6 @@
 # Makefiles
 
-## warning! there are two makefiles!
+## There are two makefiles:
 
 1.Makefile in /src folder creates executables for time-speed checks
 
